@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="item">Item</string>
+    <string name="itemamount">Amount</string>
+    <string name="itemname">Name</string>
+    <string name="cancel">CANCEL</string>
+    <string name="Add" />
+    <string name="add">ADD</string>
+    <string name="add_a_new_shopping_item">Add a new shopping item</string>
+    <string name="name">Name</string>
+    <string name="tag">Welcome by DKAY</string>
+</resources>
